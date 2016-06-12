@@ -1,0 +1,16 @@
+{
+  "name": "letterboxd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "dependencies": {
+    "nightmare": "^2.5.1",
+    "vo": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
