@@ -4,10 +4,11 @@
   "description": "",
   "main": "scrape.js",
   "dependencies": {
+    "minimist": "^1.2.0",
     "nightmare": "^2.5.1",
+    "progress": "^1.1.8",
     "vo": "^3.1.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
